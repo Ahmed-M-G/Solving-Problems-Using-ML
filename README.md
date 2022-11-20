@@ -19,3 +19,26 @@
      * Fit multiple linear regression models using the python `Sklearn` package.  
      * Split data into training and test.
      * Manipulate and visualize multivariable arrays.
+
+- ## polyfit.ipynb
+   **Polynomial Model Order Selection**
+
+   * In this Task, we will illustrate the process of cross-validation for model order selection.  We demonstrate the concepts via polynomial fitting using synthetic data. 
+     * Characterize the model order for a simple polynomial model
+     * Measure training and test errors for a given model order
+     * Select a suitable model order using cross-validation
+     * Plot the results for the model order selection process
+ 
+ 
+ - ## knn.ipynb
+   
+   **Iris data classification using KNN (Scikit-Learn)**
+
+
+
+ - ## Model Selection with Sklearn.ipynb
+   
+   * **Models Selection**
+   * **K-Fold Cross-Validation**
+  
+  
