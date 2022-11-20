@@ -3,7 +3,6 @@
  
  - ## auto_mpg.ipynb
    **Simple Linear Regression for Automobile mpg Data**
-   
    * In this Task, you will see how to:
      * Load data from a text file using the `pandas` package
      * Create a scatter plot of data
@@ -14,7 +13,6 @@
 
 - ## glucose.ipynb
    **Predicting Glucose Levels using Multiple Linear Regression**
-
    * In this Task, you will learn how to:
      * Fit multiple linear regression models using the python `Sklearn` package.  
      * Split data into training and test.
@@ -22,7 +20,6 @@
 
 - ## polyfit.ipynb
    **Polynomial Model Order Selection**
-
    * In this Task, we will illustrate the process of cross-validation for model order selection.  We demonstrate the concepts via polynomial fitting using synthetic data. 
      * Characterize the model order for a simple polynomial model
      * Measure training and test errors for a given model order
@@ -31,13 +28,11 @@
  
  
  - ## KNN.ipynb
-   
    **Iris data classification using KNN (Scikit-Learn)**
 
 
 
  - ## Model Selection with Sklearn.ipynb
-   
    * **Models Selection**
    * **K-Fold Cross-Validation**
   
