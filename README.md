@@ -1,4 +1,4 @@
-# ML-solving-some-problems
+# Solving-Problems-Using-ML
  solving some problems using machine learning models
  
  - ## auto_mpg.ipynb
