@@ -30,7 +30,7 @@
      * Plot the results for the model order selection process
  
  
- - ## knn.ipynb
+ - ## KNN.ipynb
    
    **Iris data classification using KNN (Scikit-Learn)**
 
